@@ -100,25 +100,28 @@ require("structure/header.php");
             </div>
             <!-- Contact Form Area -->
             <div class="contact-form-area">
-              <form action="#" method="post">
+			  	<div class="alert alert-success" id="mail-status" role="alert">
+				  Thanks for contacting us! We will be in touch with you shortly.
+				</div>
+				<div class="alert alert-danger" id="mail-status-error" role="alert">
+				</div>
                 <div class="row">
                   <div class="col-lg-6">
-                    <input type="text" class="form-control" name="name" placeholder="Your Name">
+					<input type="text" class="form-control" id="mail_name" name="name" placeholder="Your Name">
                   </div>
                   <div class="col-lg-6">
-                    <input type="email" class="form-control" name="email" placeholder="Your Email">
+                    <input type="email" class="form-control" id="mail_email" name="email" placeholder="Your Email">
                   </div>
                   <div class="col-12">
-                    <input type="text" class="form-control" name="subject" placeholder="Your Subject">
+                    <input type="text" class="form-control" id="mail_subject" name="subject" placeholder="Your Subject">
                   </div>
                   <div class="col-12">
-                    <textarea name="message" class="form-control" cols="30" rows="10" placeholder="Your Message"></textarea>
+                    <textarea name="message" id="mail_message" class="form-control" cols="30" rows="10" placeholder="Your Message"></textarea>
                   </div>
                   <div class="col-12">
-                    <button type="submit" class="btn famie-btn">Send Message</button>
+                    <button type="submit" class="btn famie-btn" onClick="sendContact();">Send Message</button>
                   </div>
                 </div>
-              </form>
             </div>
           </div>
         </div>

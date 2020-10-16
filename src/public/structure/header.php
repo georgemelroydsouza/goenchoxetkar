@@ -14,7 +14,7 @@
   <!-- Favicon -->
   <link rel="icon" href="img/core-img/favicon.ico">
   <!-- Core Stylesheet -->
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?x=<?=time()?>">
   <?php
   if ($menuActive=='gallery') {
 	?>
@@ -77,7 +77,7 @@
                   <li <?=($menuActive=='home') ? 'class="active"' : ''?>><a href="/home.php">Home</a></li>
                   <li <?=($menuActive=='about') ? 'class="active"' : ''?>><a href="/about.php">About</a></li>
                   <li <?=($menuActive=='technology') ? 'class="active"' : ''?>><a href="/technology.php">Technology</a></li>
-				  <li <?=($menuActive=='farmingqueries') ? 'class="active"' : ''?>><a href="#">Farming Queries</a></li>
+				  <li <?=($menuActive=='farming_queries') ? 'class="active"' : ''?>><a href="/farming_queries.php">Farming Queries</a></li>
 				  <li <?=($menuActive=='gallery') ? 'class="active"' : ''?>><a href="/gallery.php">Gallery</a></li>
                   <li <?=($menuActive=='contact') ? 'class="active"' : ''?>><a href="/contact.php">Contact</a></li>
                 </ul>

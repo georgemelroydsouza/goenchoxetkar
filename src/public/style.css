@@ -1862,3 +1862,12 @@ textarea.form-control {
   height: 100px; }
 
 /*# sourceMappingURL=style.css.map */
+
+#mail-status {
+	visibility: hidden;
+	display: none;
+}
+#mail-status-error {
+	visibility: hidden;
+	display: none;
+}

@@ -71,7 +71,7 @@ require("structure/header.php");
 	
 	</div>
 	
-</div>
+  </div>
   <!-- ##### Gallery Area End ##### -->
 
 

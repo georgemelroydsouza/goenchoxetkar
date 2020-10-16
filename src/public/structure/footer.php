@@ -63,7 +63,7 @@ Copyright &copy;<?=date("Y")?> All rights reserved | This template is made with 
                   <ul>
                     <li><a href="/about.php">About</a></li>
                     <li><a href="/technology.php">Technology</a></li>
-                    <li><a href="#">Farming Queries</a></li>
+                    <li><a href="/farming_queries.php">Farming Queries</a></li>
                     <li><a href="/gallery.php">Gallery</a></li>
                     <li><a href="/contact.php">Contact</a></li>
                   </ul>
@@ -102,6 +102,7 @@ Copyright &copy;<?=date("Y")?> All rights reserved | This template is made with 
   <script src="js/jarallax-video.min.js"></script>
   <!-- Active js -->
   <script src="js/active.js"></script>
+  <script src="js/contact.js"></script>
   
   <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
   <?php
