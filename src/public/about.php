@@ -58,25 +58,9 @@ require("structure/header.php");
 
         <!-- Single Benefits Area -->
         <div class="col-12 col-sm-4 col-lg">
-          <div class="single-benefits-area wow fadeInUp mb-50" data-wow-delay="500ms">
-            <img src="img/core-img/cereals.png" alt="">
-            <h5>100% Natural</h5>
-          </div>
-        </div>
-
-        <!-- Single Benefits Area -->
-        <div class="col-12 col-sm-4 col-lg">
           <div class="single-benefits-area wow fadeInUp mb-50" data-wow-delay="700ms">
             <img src="img/core-img/tractor.png" alt="">
             <h5>Farm Equipment</h5>
-          </div>
-        </div>
-
-        <!-- Single Benefits Area -->
-        <div class="col-12 col-sm-4 col-lg">
-          <div class="single-benefits-area wow fadeInUp mb-50" data-wow-delay="900ms">
-            <img src="img/core-img/sunrise.png" alt="">
-            <h5>Organic food</h5>
           </div>
         </div>
       </div>
@@ -151,16 +135,11 @@ require("structure/header.php");
 			<div class="single-team-member mb-100 wow fadeInUp" data-wow-delay="100ms">
 				<!-- Team Thumbnail -->
 				<div class="team-img">
-				<img src="img/bg-img/neville_goenchoxetkar.jpg" alt="">
-				<!-- Social Info -->
-				<div class="team-social-info">
-					<a href="#" data-toggle="tooltip" data-placement="right" title="Facebook"><i class="fa fa-facebook"></i></a>
-				</div>
+    				<img src="img/bg-img/neville_goenchoxetkar.jpg" alt="">
 				</div>
 				<!-- Team Member Info -->
 				<div class="team-member-info">
 				<h5>Neville Luis</h5>
-				<h6>Owner</h6>
 				</div>
 			</div>
 			</div>
@@ -172,22 +151,57 @@ require("structure/header.php");
 			<div class="single-team-member mb-100 wow fadeInUp" data-wow-delay="500ms">
 				<!-- Team Thumbnail -->
 				<div class="team-img">
-				<img src="img/bg-img/stanely_goenchoxetkar.jpg" alt="">
-				<!-- Social Info -->
-				<div class="team-social-info">
-					<a href="#" data-toggle="tooltip" data-placement="right" title="Facebook"><i class="fa fa-facebook"></i></a>
-				</div>
+				    <img src="img/bg-img/stanely_goenchoxetkar.jpg" alt="">
 				</div>
 				<!-- Team Member Info -->
 				<div class="team-member-info">
 				<h5>Stanely Fernandes</h5>
-				<h6>Owner</h6>
 				</div>
 			</div>
 			</div>
 		</div>
 
       </div>
+
+      <div class="row">
+		  
+		<!-- Single Team Member -->
+       
+		<div class="col-12 col-sm-6 col-lg-6">
+			<div class="col-6 pull-right">
+			<div class="single-team-member mb-100 wow fadeInUp" data-wow-delay="500ms">
+				<!-- Team Thumbnail -->
+				<div class="team-img">
+				<img src="img/bg-img/Kenneth_goenchoxetkar.jpg" alt="">
+				</div>
+				<!-- Team Member Info -->
+				<div class="team-member-info">
+				<h5>Kenneth Lopes</h5>
+				</div>
+			</div>
+			</div>
+		</div>
+
+		<div class="col-12 col-sm-6 col-lg-6">
+			<div class="col-6">
+			<div class="single-team-member mb-100 wow fadeInUp" data-wow-delay="500ms">
+				<!-- Team Thumbnail -->
+				<div class="team-img">
+				&nbsp;
+				</div>
+				<!-- Team Member Info -->
+				<div class="team-member-info">
+				<h5>&nbsp;</h5>
+				</div>
+			</div>
+			</div>
+		</div>
+
+
+      </div>
+
+
+
     </div>
   </section>
   <!-- ##### Team Member Area End ##### -->

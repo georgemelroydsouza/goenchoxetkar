@@ -8,4 +8,4 @@ services:
     environment:
     - VIRTUAL_HOST=goenchoxetkar.localhost
     ports:
-      - "8080:80"
+      - "8082:80"

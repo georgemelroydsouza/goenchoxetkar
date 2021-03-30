@@ -27,9 +27,9 @@
 
 <body>
   <!-- Preloader -->
-  <div class="preloader d-flex align-items-center justify-content-center">
+  <!-- div class="preloader d-flex align-items-center justify-content-center">
     <div class="spinner"></div>
-  </div>
+  </-->
 
   <!-- ##### Header Area Start ##### -->
   <header class="header-area">
@@ -45,7 +45,7 @@
               <!-- Top Header Content -->
               <div class="top-header-meta text-right">
                 <a href="#" data-toggle="tooltip" data-placement="bottom" title="info@goenchoxetkar.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> <span>Email: info@goenchoxetkar.com</span></a>
-                <a href="#" data-toggle="tooltip" data-placement="bottom" title="+91 9822583458 / +91 9850482858"><i class="fa fa-phone" aria-hidden="true"></i> <span>Call Us: +91 9822583458 / +91 9850482858</span></a>&nbsp;&nbsp;&nbsp;
+                <a href="#" data-toggle="tooltip" data-placement="bottom" title="+91 30882782"><i class="fa fa-phone" aria-hidden="true"></i> <span>Call Us: +91 30882782</span></a>&nbsp;&nbsp;&nbsp;
               </div>
             </div>
           </div>
@@ -74,10 +74,11 @@
               <!-- Navbar Start -->
               <div class="classynav">
                 <ul>
-                  <li <?=($menuActive=='home') ? 'class="active"' : ''?>><a href="/home.php">Home</a></li>
+                  <!-- li <?=($menuActive=='home') ? 'class="active"' : ''?>><a href="/home.php">Home</a></!-->
                   <li <?=($menuActive=='about') ? 'class="active"' : ''?>><a href="/about.php">About</a></li>
+				  <li <?=($menuActive=='news') ? 'class="active"' : ''?>><a href="/news.php">News</a></li>
                   <li <?=($menuActive=='technology') ? 'class="active"' : ''?>><a href="/technology.php">Technology</a></li>
-				  <li <?=($menuActive=='farming_queries') ? 'class="active"' : ''?>><a href="/farming_queries.php">Farming Queries</a></li>
+				  <li <?=($menuActive=='farming_queries') ? 'class="active"' : ''?>><a href="https://docs.google.com/forms/d/e/1FAIpQLSckWLYXQFUEa1r0iZOZKsT0T19yMPW0smGBnuts71Lqb5x_TA/viewform" target="_blank">Bookings</a></li>
 				  <li <?=($menuActive=='gallery') ? 'class="active"' : ''?>><a href="/gallery.php">Gallery</a></li>
                   <li <?=($menuActive=='contact') ? 'class="active"' : ''?>><a href="/contact.php">Contact</a></li>
                 </ul>

@@ -28,6 +28,25 @@ require("structure/header.php");
   </div>
   <!-- ##### Breadcrumb Area End ##### -->
 
+  <div class="container page-top">
+	<div class="row">
+		<div class="col-lg-6 col-md-6 col-xs-6 thumb">
+			<div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OtZw_5qrHAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+		</div>
+		<div class="col-lg-6 col-md-6 col-xs-6 thumb">
+			<div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NX6iBHlt-fk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+		</div>
+	</div>
+  </div>
+  
+  <div class="container page-top">
+	<div class="row">&nbsp;</div>
+  </div>
+
   <!-- ##### Gallery Area Start ##### -->
   <div class="container page-top">
 

@@ -9,12 +9,15 @@ require("structure/header.php");
     <div class="welcome-slides owl-carousel">
 
       <!-- Single Welcome Slides -->
-      <div class="single-welcome-slides bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/banner/home_banner01.webp);">
+      <div class="single-welcome-slides bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/banner/home_banner07.webp);">
         <div class="container h-100">
           <div class="row h-100 align-items-center">
             <div class="col-12 col-lg-10">
               <div class="welcome-content">
-                <h2 data-animation="fadeInUp" data-delay="200ms">The hearth of the farm is the true center of our universe.</h2>
+                <h2 style="font-size:2.3em;" data-animation="fadeInUp" data-delay="200ms">the farmer's verse...</h2>
+                <h2 data-animation="fadeInUp" data-delay="200ms">TO EVERYTHING THERE IS A SEASON,</h2>
+				<h2 style="font-size:2em;" data-animation="fadeInUp" data-delay="200ms">and a time to every purpose under the heaven a time to be born and a time to die. A time to plant, and a time to pluck up what which is planted...</h2>
+				<h2 style="font-size:1.2em;" data-animation="fadeInUp" data-delay="200ms"> ~ Ecclesiastes 3 1-2</h2>
                 <p data-animation="fadeInUp" data-delay="400ms">&nbsp;</p>
                 <a href="/contact.php" class="btn famie-btn mt-4" data-animation="bounceInUp" data-delay="600ms">Contact Us</a>
               </div>
@@ -29,7 +32,21 @@ require("structure/header.php");
           <div class="row h-100 align-items-center">
             <div class="col-12 col-lg-10">
               <div class="welcome-content">
-                <h2 data-animation="fadeInDown" data-delay="200ms">The hearth of the farm is the true center of our universe.</h2>
+                <h2 data-animation="fadeInDown" data-delay="200ms">We <font color="yellow"> plant </font> the seeds, <font color="yellow">but</font> God gives the <font color="yellow">harvest</font></h2>
+                <p data-animation="fadeInDown" data-delay="400ms">&nbsp;</p>
+                <a href="/contact.php" class="btn famie-btn mt-4" data-animation="bounceInDown" data-delay="600ms">Contact Us</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+	  
+      <div class="single-welcome-slides bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/banner/home_banner06.webp);">
+        <div class="container h-100">
+          <div class="row h-100 align-items-center">
+            <div class="col-12 col-lg-10">
+              <div class="welcome-content">
+                <h2 data-animation="fadeInDown" data-delay="200ms">And into the field I go to lose my mind and find my soul</h2>
                 <p data-animation="fadeInDown" data-delay="400ms">&nbsp;</p>
                 <a href="/contact.php" class="btn famie-btn mt-4" data-animation="bounceInDown" data-delay="600ms">Contact Us</a>
               </div>
@@ -72,27 +89,12 @@ require("structure/header.php");
 
         <!-- Single Benefits Area -->
         <div class="col-12 col-sm-4 col-lg">
-          <div class="single-benefits-area wow fadeInUp mb-50" data-wow-delay="500ms">
-            <img src="img/core-img/cereals.png" alt="">
-            <h5>100% Natural</h5>
-          </div>
-        </div>
-
-        <!-- Single Benefits Area -->
-        <div class="col-12 col-sm-4 col-lg">
           <div class="single-benefits-area wow fadeInUp mb-50" data-wow-delay="700ms">
             <img src="img/core-img/tractor.png" alt="">
             <h5>Farm Equipment</h5>
           </div>
         </div>
-
-        <!-- Single Benefits Area -->
-        <div class="col-12 col-sm-4 col-lg">
-          <div class="single-benefits-area wow fadeInUp mb-50" data-wow-delay="900ms">
-            <img src="img/core-img/sunrise.png" alt="">
-            <h5>Organic food</h5>
-          </div>
-        </div>
+		
       </div>
     </div>
   </section>
@@ -104,39 +106,61 @@ require("structure/header.php");
       <div class="row align-items-center">
 
         <!-- About Us Content -->
-        <div class="col-12 col-md-8">
+        <div class="col-12 col-md-12">
           <div class="about-us-content mb-100">
-            <!-- Section Heading -->
+            <!-- Section Heading --->
             <div class="section-heading">
               <p>About us</p>
               <h2><span>Let Us</span> Tell You Our Story</h2>
               <img src="img/core-img/decor.png" alt="">
             </div>
-			<p>Always recounting their happy childhood days helping the labourers in their grandparents paddy fields,
-				Nev and Stan decided to cultivate an ancestral fallow field. This task proved challenging as they couldn’t
-				find labour to prepare the field. They then decided on using modern farming techniques which replace
-				labour with machinery. They encountered another obstacle-limited transplanting machines which were
-				already booked out. A lot of other farmers were also on the waiting list and some would be left
-				disappointed. Not the ones to be deterred, the boys decided to do their bit in helping the farmers,
-				besides fulfilling their own dreams. Under the guidance of pioneer farmer priest <b>Fr. George Quadros</b>, the
-				gents are making mechanized paddy cultivation a viable alternative to traditional farming.
-				Thus was born <b>‘Goencho Xetkar’</b>, bringing meaning to the words of George Washington <br /><br />“I would rather
-				be on my farm than be emperor of the world”</p>
+			<p>GOENCHO XETKAR, under the aegis of Fr George Quadros, of Don Bosco Loutolim Society is happy to launch 
+            Mechanical paddy cultivation in North Goa for the upcoming Kharif season 2021.
+            We are custom service providers registered with the Directorate of Agriculture, Goa.
+            Our services include</p>
+            <ul>
+            <li>* Preparation of the seedlings in our dedicated nursery.</li>
+            <li>* Transplanting the seedlings with a ride on transplanter.</li>
+            <li>* Paddy nursery mats.</li>
+            <li>* Mechanical weeding of paddy field.</li>
+       </ul></br >
+        <p>To check the possibility of mechanical transplantation in your field and further details contact us.</p>
           </div>
+		  
         </div>
 
-        <!-- Famie Video Play -->
-        <div class="col-12 col-md-4">
-          <div class="famie-video-play mb-100">
-            <img src="img/bg-img/produce_goenchoxetkar.webp" alt="">
-            <!-- Play Icon -->
-          </div>
-        </div>
+
 
       </div>
     </div>
   </section>
   <!-- ##### About Us Area End ##### -->
+  
+  <!-- ##### NEWS Area Start ##### -->
+  <!--section class="about-us-area">
+    <div class="container">
+      <div class="row align-items-center">
+
+        <-x- About Us Content -x->
+        <div class="col-12 col-md-12">
+          <div class="about-us-content mb-100">
+            <-x- Section Heading -x->
+            <div class="section-heading">
+              <p>News</p>
+              <h2>Breaking <span>News</span></h2>
+              <img src="img/core-img/decor.png" alt="">
+            </div>
+			<p><div class="farming-practice-thumbnail">
+              <img src="img/bg-img/heraldo_article.png" alt="">
+            </div></p>
+          </div>
+		  
+        </div>
+
+      </div>
+    </div>
+  </section-->
+  <!-- ##### NEWS Area End ##### -->
 
 
   <!-- ##### Farming Practice Area Start ##### -->
@@ -160,7 +184,7 @@ require("structure/header.php");
           <div class="single-farming-practice-area mb-50 wow fadeInUp" data-wow-delay="400ms">
             <!-- Thumbnail -->
             <div class="farming-practice-thumbnail">
-              <img src="img/bg-img/rice_transplanter.png" alt="">
+              <img src="img/bg-img/rotary_tiller_02.png?x=1" alt="">
             </div>
             <!-- Content -->
             <div class="farming-practice-content text-center">
@@ -178,7 +202,7 @@ require("structure/header.php");
           <div class="single-farming-practice-area mb-50 wow fadeInUp" data-wow-delay="500ms">
             <!-- Thumbnail -->
             <div class="farming-practice-thumbnail">
-              <img src="img/bg-img/rotary_tiller.png" alt="">
+              <img src="img/bg-img/rotary_tiller_01.png?x=1" alt="">
             </div>
             <!-- Content -->
             <div class="farming-practice-content text-center">
@@ -242,7 +266,7 @@ require("structure/header.php");
         <!-- Contact Maps -->
         <div class="col-lg-6">
           <div class="contact-maps mb-100">
-		  <iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=403001%20Goa%20India+(Goemcho%20Xethkar)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+		  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7690.308996046816!2d73.91890167451439!3d15.476119656998709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbfbeb024e934a3%3A0x597881099585b2e2!2sPether%2C%20Carambolim%2C%20Bainguinim%2C%20Goa%2C%20India!5e0!3m2!1sen!2suk!4v1617044871609!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
           </div>
         </div>
       </div>

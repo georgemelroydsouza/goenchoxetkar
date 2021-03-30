@@ -2,7 +2,7 @@
   <!-- ##### Footer Area Start ##### -->
   <footer class="footer-area">
     <!-- Main Footer Area -->
-    <div class="main-footer bg-img bg-overlay section-padding-80-0" style="background-image: url(img/bg-img/3.jpg);">
+    <div class="main-footer bg-img bg-overlay section-padding-80-0" >
       <div class="container">
         <div class="row">
 
@@ -13,7 +13,7 @@
               <div class="contact-info">
                 <p><i class="fa fa-map-pin" aria-hidden="true"></i><span>Goa</span></p>
                 <p><i class="fa fa-envelope" aria-hidden="true"></i><span>info@goenchoxetkar.com</span></p>
-                <p><i class="fa fa-phone" aria-hidden="true"></i><span>+91 9822 583458</span></p>
+                <p><i class="fa fa-phone" aria-hidden="true"></i><span>+91 30882782</span></p>
               </div>
             </div>
           </div>
@@ -34,9 +34,13 @@
               <h5 class="widget-title">STAY CONNECTED</h5>
               <!-- Footer Social Info -->
               <div class="footer-social-info">
-                <a href="#">
+                <a href="https://www.facebook.com/Goencho-Xetkar-102635095028903" target="_blank">
                   <i class="fa fa-facebook" aria-hidden="true"></i>
                   <span>Facebook</span>
+                </a>
+                <a href="https://www.instagram.com/xetkar/" target="_blank">
+                  <i class="fa fa-instagram" aria-hidden="true"></i>
+                  <span>Instagram</span>
                 </a>
               </div>
             </div>
@@ -62,8 +66,9 @@ Copyright &copy;<?=date("Y")?> All rights reserved | This template is made with 
                 <nav>
                   <ul>
                     <li><a href="/about.php">About</a></li>
+					<li><a href="/news.php">News</a></li>
                     <li><a href="/technology.php">Technology</a></li>
-                    <li><a href="/farming_queries.php">Farming Queries</a></li>
+                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSckWLYXQFUEa1r0iZOZKsT0T19yMPW0smGBnuts71Lqb5x_TA/viewform" target="_blank">Bookings</a></li>
                     <li><a href="/gallery.php">Gallery</a></li>
                     <li><a href="/contact.php">Contact</a></li>
                   </ul>
@@ -101,7 +106,7 @@ Copyright &copy;<?=date("Y")?> All rights reserved | This template is made with 
   <!-- Jarallax Video js -->
   <script src="js/jarallax-video.min.js"></script>
   <!-- Active js -->
-  <script src="js/active.js"></script>
+  <script src="js/active.js?x=<?=time()?>"></script>
   <script src="js/contact.js"></script>
   
   <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>

@@ -62,8 +62,7 @@ require("structure/header.php");
               <i class="icon_phone"></i>
             </div>
             <h5>Phone</h5>
-            <h6>+91 9822 583458</h6>
-            <h6>+91 9850 482858</h6>
+            <h6>+91 30882782</h6>
           </div>
         </div>
 
@@ -129,7 +128,7 @@ require("structure/header.php");
         <!-- Contact Maps -->
         <div class="col-lg-6">
           <div class="contact-maps mb-100">
-            <iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=403001%20Goa%20India+(Goemcho%20Xethkar)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7690.308996046816!2d73.91890167451439!3d15.476119656998709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbfbeb024e934a3%3A0x597881099585b2e2!2sPether%2C%20Carambolim%2C%20Bainguinim%2C%20Goa%2C%20India!5e0!3m2!1sen!2suk!4v1617044871609!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
           </div>
         </div>
       </div>

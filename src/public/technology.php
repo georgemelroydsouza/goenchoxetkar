@@ -5,7 +5,7 @@ require("structure/header.php");
 ?>
 
   <!-- ##### Breadcrumb Area Start ##### -->
-  <div class="breadcrumb-area bg-img bg-overlay jarallax" style="background-image: url('img/bg-img/banner/technology_banner.webp');">
+  <div class="breadcrumb-area bg-img bg-overlay jarallax" style="background-image: url('img/bg-img/banner/technology_banner1.webp?x=1');">
     <div class="container h-100">
       <div class="row h-100 align-items-center">
         <div class="col-12">
@@ -69,11 +69,11 @@ require("structure/header.php");
         <!-- Famie Video Play -->
         <div class="col-12 col-md-4">
 			<div class="col-12">
-			<img src="img/bg-img/rice_transplanter.png" alt="">	
+			<img src="img/bg-img/rice_transplanter.png?X=1" alt="">	
 			</div>
 			&nbsp;
             <div class="col-12">
-			<img src="img/bg-img/rice_transplanter_01.png" alt="">
+			<img src="img/bg-img/rice_transplanter_01.png?X=1" alt="">
 			</div>
             
         </div>
@@ -103,7 +103,7 @@ require("structure/header.php");
 				<img src="img/bg-img/rotary_tilling_03.png" alt="" />
 			</div>
 			<div class="col-12">
-				<img src="img/bg-img/rotary_tilling_04.png" alt="" />
+				<img src="img/bg-img/rotary_tilling_05.png" alt="" />
 			</div>
 			
           </div>

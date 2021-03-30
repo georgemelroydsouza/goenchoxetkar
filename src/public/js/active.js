@@ -10,9 +10,9 @@
 
   // :: 1.0 Preloader Active Code
   browserWindow.on('load', function() {
-    $('.preloader').fadeOut('slow', function() {
-      $(this).remove();
-    });
+    //$('.preloader').fadeOut('slow', function() {
+      //$('.preloader').remove();
+    //});
   });
 
   // :: 2.0 Tooltip Active Code
@@ -40,8 +40,8 @@
       loop: true,
       dots: false,
       autoplay: true,
-      autoplayTimeout: 5000,
-      smartSpeed: 1000
+      autoplayTimeout: 10000,
+      smartSpeed: 4000
     });
 
     welcomeSlide.on('translate.owl.carousel', function () {
