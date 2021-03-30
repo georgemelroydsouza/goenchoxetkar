@@ -136,7 +136,7 @@ require("structure/header.php");
 			<div class="single-team-member mb-100 wow fadeInUp" data-wow-delay="100ms">
 				<!-- Team Thumbnail -->
 				<div class="team-img">
-    				<img src="img/bg-img/neville_goenchoxetkar.jpg" alt="">
+    				<img src="img/bg-img/nevilleluis_goenchoxetkar.jpg" alt="">
 				</div>
 				<!-- Team Member Info -->
 				<div class="team-member-info">
@@ -156,7 +156,7 @@ require("structure/header.php");
 				</div>
 				<!-- Team Member Info -->
 				<div class="team-member-info">
-				<h5>Stanely Fernandes</h5>
+				<h5>Stanley Fernandes</h5>
 				</div>
 			</div>
 			</div>

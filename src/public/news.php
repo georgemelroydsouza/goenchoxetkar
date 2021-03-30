@@ -37,6 +37,14 @@ require("structure/header.php");
     <div class="row">&nbsp;</div>
   </div>
   <div class="container page-top">
+    <div class="row">
+        <div class="col-12 text-center"><img src="img/core-img/decor2.png" alt=""></div>
+    </div>
+  </div>
+  <div class="container page-top">
+    <div class="row">&nbsp;</div>
+  </div>
+  <div class="container page-top">
 	<div class="row">
         <div class="col-4">
             <img src="img/bg-img/goencho_xetkar_news_01.png" class="img-fluid" alt="Goencho Xetkar in the news">

@@ -78,7 +78,7 @@
                   <li <?=($menuActive=='about') ? 'class="active"' : ''?>><a href="/about.php">About</a></li>
 				  <li <?=($menuActive=='news') ? 'class="active"' : ''?>><a href="/news.php">News</a></li>
                   <li <?=($menuActive=='technology') ? 'class="active"' : ''?>><a href="/technology.php">Technology</a></li>
-				  <li <?=($menuActive=='farming_queries') ? 'class="active"' : ''?>><a href="https://docs.google.com/forms/d/e/1FAIpQLSckWLYXQFUEa1r0iZOZKsT0T19yMPW0smGBnuts71Lqb5x_TA/viewform" target="_blank">Bookings</a></li>
+				  <li <?=($menuActive=='farming_queries') ? 'class="active"' : ''?>><a href="/farming_queries.php" target="_blank">Bookings</a></li>
 				  <li <?=($menuActive=='gallery') ? 'class="active"' : ''?>><a href="/gallery.php">Gallery</a></li>
                   <li <?=($menuActive=='contact') ? 'class="active"' : ''?>><a href="/contact.php">Contact</a></li>
                 </ul>

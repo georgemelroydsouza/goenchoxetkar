@@ -30,7 +30,7 @@ require("structure/header.php");
 
   <!-- ##### Gallery Area Start ##### -->
   <div class="embed-responsive embed-responsive-21by9">
-  <iframe class="embed-responsive-item" src="https://docs.google.com/forms/d/e/1FAIpQLSckWLYXQFUEa1r0iZOZKsT0T19yMPW0smGBnuts71Lqb5x_TA/viewform?embedded=true" width="640" height="1800" frameborder="0" marginheight="0" marginwidth="0" >Loading…</iframe>
+    <iframe class="embed-responsive-item" src="https://docs.google.com/forms/d/e/1FAIpQLSckWLYXQFUEa1r0iZOZKsT0T19yMPW0smGBnuts71Lqb5x_TA/viewform?embedded=true" width="640" height="1604" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
   </div>
   <!-- ##### Gallery Area End ##### -->
 

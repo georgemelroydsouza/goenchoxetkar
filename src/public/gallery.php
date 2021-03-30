@@ -87,6 +87,48 @@ require("structure/header.php");
 				<img  src="img/bg-img/gallery/06.jpg?auto=compress&cs=tinysrgb&h=650&w=940" class="zoom img-fluid "  alt="">
 			</a>
 		</div>
+        
+		<div class="col-lg-4 col-md-4 col-xs-6 thumb">
+			<a href="img/bg-img/gallery/07.jpg?auto=compress&cs=tinysrgb&h=650&w=940" class="fancybox" rel="ligthbox">
+				<img  src="img/bg-img/gallery/07.jpg?auto=compress&cs=tinysrgb&h=650&w=940" class="zoom img-fluid "  alt="">
+			</a>
+		</div>
+        
+		<div class="col-lg-4 col-md-4 col-xs-6 thumb">
+			<a href="img/bg-img/gallery/08.jpg?auto=compress&cs=tinysrgb&h=650&w=940" class="fancybox" rel="ligthbox">
+				<img  src="img/bg-img/gallery/08.jpg?auto=compress&cs=tinysrgb&h=650&w=940" class="zoom img-fluid "  alt="">
+			</a>
+		</div>
+        
+		<div class="col-lg-4 col-md-4 col-xs-6 thumb">
+			<a href="img/bg-img/gallery/09.jpg?auto=compress&cs=tinysrgb&h=650&w=940" class="fancybox" rel="ligthbox">
+				<img  src="img/bg-img/gallery/09.jpg?auto=compress&cs=tinysrgb&h=650&w=940" class="zoom img-fluid "  alt="">
+			</a>
+		</div>
+        
+		<div class="col-lg-4 col-md-4 col-xs-6 thumb">
+			<a href="img/bg-img/gallery/10.jpg?auto=compress&cs=tinysrgb&h=650&w=940" class="fancybox" rel="ligthbox">
+				<img  src="img/bg-img/gallery/10.jpg?auto=compress&cs=tinysrgb&h=650&w=940" class="zoom img-fluid "  alt="">
+			</a>
+		</div>
+        
+		<div class="col-lg-4 col-md-4 col-xs-6 thumb">
+			<a href="img/bg-img/gallery/11.jpg?auto=compress&cs=tinysrgb&h=650&w=940" class="fancybox" rel="ligthbox">
+				<img  src="img/bg-img/gallery/11.jpg?auto=compress&cs=tinysrgb&h=650&w=940" class="zoom img-fluid "  alt="">
+			</a>
+		</div>
+        
+		<div class="col-lg-4 col-md-4 col-xs-6 thumb">
+			<a href="img/bg-img/gallery/12.jpg?auto=compress&cs=tinysrgb&h=650&w=940" class="fancybox" rel="ligthbox">
+				<img  src="img/bg-img/gallery/12.jpg?auto=compress&cs=tinysrgb&h=650&w=940" class="zoom img-fluid "  alt="">
+			</a>
+		</div>
+        
+		<div class="col-lg-4 col-md-4 col-xs-6 thumb">
+			<a href="img/bg-img/gallery/13.jpg?auto=compress&cs=tinysrgb&h=650&w=940" class="fancybox" rel="ligthbox">
+				<img  src="img/bg-img/gallery/13.jpg?auto=compress&cs=tinysrgb&h=650&w=940" class="zoom img-fluid "  alt="">
+			</a>
+		</div>
 	
 	</div>
 	

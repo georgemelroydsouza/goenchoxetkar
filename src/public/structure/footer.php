@@ -68,7 +68,7 @@ Copyright &copy;<?=date("Y")?> All rights reserved | This template is made with 
                     <li><a href="/about.php">About</a></li>
 					<li><a href="/news.php">News</a></li>
                     <li><a href="/technology.php">Technology</a></li>
-                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSckWLYXQFUEa1r0iZOZKsT0T19yMPW0smGBnuts71Lqb5x_TA/viewform" target="_blank">Bookings</a></li>
+                    <li><a href="/farming_queries.php" >Bookings</a></li>
                     <li><a href="/gallery.php">Gallery</a></li>
                     <li><a href="/contact.php">Contact</a></li>
                   </ul>
