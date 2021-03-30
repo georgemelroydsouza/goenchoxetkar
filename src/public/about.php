@@ -97,6 +97,8 @@ require("structure/header.php");
 				gents are making mechanized paddy cultivation a viable alternative to traditional farming.
 				Thus was born <b>‘Goencho Xetkar’</b>, bringing meaning to the words of George Washington <br /><br />“I would rather
 				be on my farm than be emperor of the world”</p>
+                <img src="img/bg-img/about_fr_george_quadros.png" alt=""/>
+                
           </div>
         </div>
 
@@ -111,7 +113,6 @@ require("structure/header.php");
     </div>
   </section>
   <!-- ##### About Us Area End ##### -->
-
 
   <!-- ##### Team Member Area Start ##### -->
   <section class="team-member-area section-padding-100-0">
@@ -130,8 +131,8 @@ require("structure/header.php");
       <div class="row">
 		  
 		<!-- Single Team Member -->
-		<div class="col-12 col-sm-6 col-lg-6">
-			<div class="col-6 pull-right">
+		<div class="col-12 col-sm-4 col-lg-4">
+			<div class="col-12">
 			<div class="single-team-member mb-100 wow fadeInUp" data-wow-delay="100ms">
 				<!-- Team Thumbnail -->
 				<div class="team-img">
@@ -146,8 +147,8 @@ require("structure/header.php");
 		</div>
 
 		<!-- Single Team Member -->
-		<div class="col-12 col-sm-6 col-lg-6">
-			<div class="col-6">
+		<div class="col-12 col-sm-4 col-lg-4">
+			<div class="col-12">
 			<div class="single-team-member mb-100 wow fadeInUp" data-wow-delay="500ms">
 				<!-- Team Thumbnail -->
 				<div class="team-img">
@@ -160,15 +161,11 @@ require("structure/header.php");
 			</div>
 			</div>
 		</div>
-
-      </div>
-
-      <div class="row">
 		  
 		<!-- Single Team Member -->
        
-		<div class="col-12 col-sm-6 col-lg-6">
-			<div class="col-6 pull-right">
+		<div class="col-12 col-sm-4 col-lg-4">
+			<div class="col-12">
 			<div class="single-team-member mb-100 wow fadeInUp" data-wow-delay="500ms">
 				<!-- Team Thumbnail -->
 				<div class="team-img">
@@ -181,22 +178,6 @@ require("structure/header.php");
 			</div>
 			</div>
 		</div>
-
-		<div class="col-12 col-sm-6 col-lg-6">
-			<div class="col-6">
-			<div class="single-team-member mb-100 wow fadeInUp" data-wow-delay="500ms">
-				<!-- Team Thumbnail -->
-				<div class="team-img">
-				&nbsp;
-				</div>
-				<!-- Team Member Info -->
-				<div class="team-member-info">
-				<h5>&nbsp;</h5>
-				</div>
-			</div>
-			</div>
-		</div>
-
 
       </div>
 

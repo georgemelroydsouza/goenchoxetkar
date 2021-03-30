@@ -13,7 +13,7 @@
               <div class="contact-info">
                 <p><i class="fa fa-map-pin" aria-hidden="true"></i><span>Goa</span></p>
                 <p><i class="fa fa-envelope" aria-hidden="true"></i><span>info@goenchoxetkar.com</span></p>
-                <p><i class="fa fa-phone" aria-hidden="true"></i><span>+91 30882782</span></p>
+                <p><i class="fa fa-phone" aria-hidden="true"></i><span>+91 9130882782 / +91 9850482858</span></p>
               </div>
             </div>
           </div>

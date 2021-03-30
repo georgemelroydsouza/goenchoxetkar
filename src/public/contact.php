@@ -62,7 +62,7 @@ require("structure/header.php");
               <i class="icon_phone"></i>
             </div>
             <h5>Phone</h5>
-            <h6>+91 30882782</h6>
+            <h6>+91 9130882782 / +91 9850482858</h6>
           </div>
         </div>
 

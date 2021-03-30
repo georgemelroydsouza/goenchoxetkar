@@ -111,7 +111,7 @@ require("structure/header.php");
             <!-- Section Heading --->
             <div class="section-heading">
               <p>About us</p>
-              <h2><span>Let Us</span> Tell You Our Story</h2>
+              <h2><span>This Is</span> What We Do</h2>
               <img src="img/core-img/decor.png" alt="">
             </div>
 			<p>GOENCHO XETKAR, under the aegis of Fr George Quadros, of Don Bosco Loutolim Society is happy to launch 

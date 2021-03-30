@@ -45,7 +45,7 @@
               <!-- Top Header Content -->
               <div class="top-header-meta text-right">
                 <a href="#" data-toggle="tooltip" data-placement="bottom" title="info@goenchoxetkar.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> <span>Email: info@goenchoxetkar.com</span></a>
-                <a href="#" data-toggle="tooltip" data-placement="bottom" title="+91 30882782"><i class="fa fa-phone" aria-hidden="true"></i> <span>Call Us: +91 30882782</span></a>&nbsp;&nbsp;&nbsp;
+                <a href="#" data-toggle="tooltip" data-placement="bottom" title="+91 30882782"><i class="fa fa-phone" aria-hidden="true"></i> <span>Call Us: +91 9130882782 / +91 9850482858</span></a>&nbsp;&nbsp;&nbsp;
               </div>
             </div>
           </div>
