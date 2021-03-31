@@ -4,3 +4,6 @@ RewriteBase /
 
 RewriteCond %{THE_REQUEST} ^[A-Z]+\s.+\.\s+\sHTTP/.+
 RewriteRule ^(.+)\.php $1 [R=301,L]
+
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.goenchoxetkar.com/$1 [R,L]
